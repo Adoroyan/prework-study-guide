@@ -1,0 +1,41 @@
+[33mcommit 502edc4418d155c661b5df64e2017444c8c8bcc8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Adrian Dorojan <adorojan@outlook.com>
+Date:   Sun Nov 20 09:13:26 2022 +0000
+
+    added CSS to project
+
+[33mcommit 0e3424d484e97a2fb80f57d4ccfd6cf599b7b156[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 97e47fa 6f51436
+Author: Adrian Dorojan <118225609+Adoroyan@users.noreply.github.com>
+Date:   Sun Nov 20 08:20:49 2022 +0000
+
+    Merge pull request #2 from Adoroyan/feature/add-html
+    
+    added code to HTML file
+
+[33mcommit 6f514360225c0db733e0acb38d755ba3b7a11ebe[m[33m ([m[1;31morigin/feature/add-html[m[33m, [m[1;32mfeature/add-html[m[33m)[m
+Author: Adrian Dorojan <adorojan@outlook.com>
+Date:   Sun Nov 20 08:10:11 2022 +0000
+
+    added code to HTML file
+
+[33mcommit 97e47fae3dc5567210f6ca15a10a7cfb7ef57f5e[m
+Merge: fe3bbc4 8a863b8
+Author: Adrian Dorojan <118225609+Adoroyan@users.noreply.github.com>
+Date:   Sun Nov 20 06:57:57 2022 +0000
+
+    Merge pull request #1 from Adoroyan/feature/starter-code
+    
+    add starter code for prework project
+
+[33mcommit 8a863b8059bd87ddef2c19b0e68ab9ee05c85674[m[33m ([m[1;31morigin/feature/starter-code[m[33m, [m[1;32mfeature/starter-code[m[33m)[m
+Author: Adrian Dorojan <adorojan@outlook.com>
+Date:   Sun Nov 20 06:49:21 2022 +0000
+
+    add starter code
+
+[33mcommit fe3bbc46fa164e2888e993607827eba5355564f9[m
+Author: Adrian Dorojan <118225609+Adoroyan@users.noreply.github.com>
+Date:   Tue Nov 15 02:28:15 2022 +0000
+
+    Initial commit
